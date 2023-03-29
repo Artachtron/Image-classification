@@ -1,3 +1,2 @@
 # Image-classification
-
 Coming soon
